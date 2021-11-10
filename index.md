@@ -5,7 +5,7 @@
 ### Projects
 
 [Scorched(Adventure Game)](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Scorched Title Pic.PNG?raw=true"/>
 
 
 ### Category Name 2
