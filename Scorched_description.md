@@ -1,5 +1,5 @@
 ## Scorched
-**Project description:** Scorhced fallows a survivior of a apocolytic event where the sun bunrt most of the Earth and resources are scarce. The player must travel through this sandy wastland in search of water and a permanant Home.
+**Project description:** Scorched fallows a survivior of a apocolytic event where the sun bunrt most of the Earth and resources are scarce. The player must travel through this sandy wastland in search of water and a permanant Home.
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
