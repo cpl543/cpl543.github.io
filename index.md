@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Scorched(Adventure Game)](/sample_page)
+[Scorched(Adventure Game)](/Scorched_Description)
 <img src="images/Scorched Title Pic.PNG?raw=true"/>
 
 
